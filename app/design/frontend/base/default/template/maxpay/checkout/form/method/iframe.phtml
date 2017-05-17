@@ -1,0 +1,12 @@
+<?php
+$widget = $this->getWidget();
+?>
+<div class="maxpay-widget">
+	<?php
+	if ($widget['status']) {
+		echo $widget['content'];
+	} else {
+		echo "<h3>{$widget['content']}</h3>";
+	}
+	?>
+</div>
