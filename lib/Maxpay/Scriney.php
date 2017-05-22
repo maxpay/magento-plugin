@@ -10,8 +10,8 @@ use Maxpay\Lib\Exception\GeneralMaxpayException;
 use Maxpay\Lib\Model\Identity;
 use Maxpay\Lib\Model\IdentityInterface;
 use Maxpay\Lib\Util\SignatureHelper;
-use Psr\Log\LoggerInterface;
-use Psr\Log\NullLogger;
+use Maxpay\Lib\Util\LoggerInterface;
+use Maxpay\Lib\Util\NullLogger;
 
 /**
  * Class Scriney
