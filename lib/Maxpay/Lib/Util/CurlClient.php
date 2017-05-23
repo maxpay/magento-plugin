@@ -3,7 +3,7 @@
 namespace Maxpay\Lib\Util;
 
 use Maxpay\Lib\Exception\GeneralMaxpayException;
-use Psr\Log\LoggerInterface;
+use Maxpay\Lib\Util\LoggerInterface;
 
 /**
  * Class CurlClient

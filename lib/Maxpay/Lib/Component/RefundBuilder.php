@@ -10,7 +10,7 @@ use Maxpay\Lib\Util\CurlClient;
 use Maxpay\Lib\Util\SignatureHelper;
 use Maxpay\Lib\Util\Validator;
 use Maxpay\Lib\Util\ValidatorInterface;
-use Psr\Log\LoggerInterface;
+use Maxpay\Lib\Util\LoggerInterface;
 
 /**
  * Class RefundBuilder

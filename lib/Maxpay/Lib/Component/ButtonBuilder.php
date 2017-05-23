@@ -13,7 +13,7 @@ use Maxpay\Lib\Model\ProductInterface;
 use Maxpay\Lib\Model\RenderableInterface;
 use Maxpay\Lib\Util\Validator;
 use Maxpay\Lib\Util\ValidatorInterface;
-use Psr\Log\LoggerInterface;
+use Maxpay\Lib\Util\LoggerInterface;
 
 /**
  * Class ButtonBuilder

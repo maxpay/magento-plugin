@@ -7,7 +7,7 @@ use Maxpay\Lib\Exception\GeneralMaxpayException;
 use Maxpay\Lib\Model\UserInfoInterface;
 use Maxpay\Lib\Util\Validator;
 use Maxpay\Lib\Util\ValidatorInterface;
-use Psr\Log\LoggerInterface;
+use Maxpay\Lib\Util\LoggerInterface;
 
 /**
  * Class BaseBuilder
